@@ -3,9 +3,9 @@
 ## Summary Description
 
 The primary goal of this project was to build a terminal-based implementation 
-of the chess game. We started with a local terminal-based implementation of the game
+of the chess game. It was started with a local terminal-based implementation of the game
 and then created a communication library so that two players would be able to play
-with each other a server. We also tried to implement a GUI for the game.
+with each other a server. A GUI was then implemented to have a better interface.
 
 ## Project Execution Summary
 
