@@ -1,0 +1,1 @@
+C:\Users\divit\Documents\Spring_2022\Rust\Project\RustIssues\chess_application\communicator\target\debug\communicator.exe: C:\Users\divit\Documents\Spring_2022\Rust\Project\RustIssues\chess_application\communicator\src\lib.rs C:\Users\divit\Documents\Spring_2022\Rust\Project\RustIssues\chess_application\communicator\src\main.rs
